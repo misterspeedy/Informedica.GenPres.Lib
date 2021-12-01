@@ -131,6 +131,11 @@
 !/tests/Informedica.GenOrder.Tests/
 !/tests/Informedica.GenOrder.Tests/Scripts/
 
+# Add benchmark files
+!/benchmarks/
+# Informedica.GenOrder.Benchmarks
+!/benchmarks/Informedica.GenOrder.Benchmarks/
+
 # Ignore generated documentation files
 /docs/content/**/*.md
 
